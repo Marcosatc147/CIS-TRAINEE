@@ -1,5 +1,6 @@
 # Trainee CIS - 2º Período
 ## Classificação Estelar (SDSS17): 
+[Link para o Colab](https://colab.research.google.com/drive/1cYCsW8CNZ9kszwsTv1JR81O-KqRbhDOF?usp=sharing)
 ### 1. Introdução
 Neste trabalho, é detalhado o desenvolvimento de uma Rede Neural Artificial (RNA) utilizando PyTorch, com o propósito de distinguir corpos celestes em três classes: Galáxias, Estrelas e Quasares (QSO). As informações utilizadas têm origem no Stellar Classification Dataset (SDSS17). O principal ponto de análise foi o modo como a estrutura da rede (sua largura e profundidade) e o uso de métodos de regularização influenciaram a capacidade de o modelo se aplicar corretamente a dados não vistos (generalização).
 
